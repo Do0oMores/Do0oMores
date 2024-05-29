@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Mores1420`s Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=mores1420&layout=compact&hide_border=true&langs_count=10)
+![Do0oMores`s Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Do0oMores&layout=compact&hide_border=true&langs_count=10)
 > EMAIL: do0omores@outlook.com
